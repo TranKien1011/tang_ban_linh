@@ -1,7 +1,7 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Chào bạn Linh cute ! 🖐🖐🖐',
-    introDesc: `Có chuyện này muốn nói với bạn lâu rồi. Bạn muốn nghe chứ`,
+    introTitle: '🖐🖐 Chào Linh ! 🖐🖐',
+    introDesc: `Có chuyện này muốn nói với bạn lâu rồi. Bạn muốn nghe chứ ?`,
     btnIntro: 'OK',
     title: 'Mình chơi game với nhau cũng lâu rồi ấy 😙',
     desc: 'Mình thấy cũng hợp nhau ý. Hay là chúng ta thử tìm hiểu nhau xem sao ^^  ',
